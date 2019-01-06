@@ -1,8 +1,8 @@
-# Quora-Insincere-Questions-Classification-Solution
+# My Solution for Quora Insincere Questions Classification 
 
 This project is an ongoing kaggle competation. I'm still working on higher LB score.
 
-# Quora's Tech challenge——Weeding out insincere questions
+# Quora Tech challenge——Weeding out insincere questions
 
 An existential problem for any major website today is how to handle toxic and divisive content. Quora wants to tackle this problem head-on to keep their platform a place where users can feel safe sharing their knowledge with the world.
 
