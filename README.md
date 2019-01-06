@@ -1,4 +1,4 @@
-# My Solution for Quora Insincere Questions Classification
+# My Solutions for Quora Insincere Questions Classification
 
 This project, detecting toxic content to improve online conversations, is an ongoing kaggle competition. I'm still working on higher LB score.
 
