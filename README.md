@@ -1,9 +1,3 @@
-.. -*- mode: rst -*-
-|Python37|_ 
-
-.. |Python37| image:: https://img.shields.io/badge/python-3.5-blue.svg
-.. _Python37: https://badge.fury.io/py/scikit-learn
-
 
 # My Solution for Quora Insincere Questions Classification 
 
