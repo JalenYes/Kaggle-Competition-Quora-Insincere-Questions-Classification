@@ -6,7 +6,7 @@
 
 .. -*- mode: rst -*-
 
-# My Solution for Quora Insincere Questions Classification 
+# My Solution for Quora Insincere Questions Classification-Detect toxic content to improve online conversations 
 
 This project is an ongoing kaggle competition. I'm still working on higher LB score.
 
