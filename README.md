@@ -1,6 +1,6 @@
 # My Solution for Quora Insincere Questions Classification 
 
-This project is an ongoing kaggle competation. I'm still working on higher LB score.
+This project is an ongoing kaggle competition. I'm still working on higher LB score.
 
 # Quora Tech challenge——Weeding out insincere questions
 
