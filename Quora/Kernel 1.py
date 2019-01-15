@@ -363,6 +363,7 @@ embedding_matrix_3 = load_para(word_index)
 embedding_matrix = np.mean([embedding_matrix_1, embedding_matrix_3], axis=0)
 np.shape(embedding_matrix)
 
+
 outputs = []
 
 pred_val_y, pred_test_y = train_pred(model_gru_atten_3(embedding_matrix), epochs=3)
