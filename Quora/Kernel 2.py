@@ -7,7 +7,7 @@ import gc
 import random
 import os
 from tqdm import tqdm
-
+import featuretools as ft
 import numpy as np
 import pandas as pd
 
