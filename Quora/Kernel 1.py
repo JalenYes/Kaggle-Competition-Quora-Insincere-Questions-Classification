@@ -6,8 +6,10 @@ import os
 import time
 import numpy as np
 import pandas as pd
+import featuretools as ft
 from tqdm import tqdm
 import math
+
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from keras.preprocessing.text import Tokenizer
