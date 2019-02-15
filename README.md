@@ -1,6 +1,6 @@
 # My Solutions for Quora Insincere Questions Classification
 
-This project, detecting toxic content to improve online conversations, is an ongoing kaggle competition. I'm still working on higher LB score.
+This project, detecting toxic content to improve online conversations, is an my kaggle competition. I got a bronze medal at top 6% from 4037 teams.
 
 #### Quora Tech challenge——Weeding out insincere questions
 
