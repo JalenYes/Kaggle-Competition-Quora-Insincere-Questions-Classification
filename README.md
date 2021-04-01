@@ -1,7 +1,7 @@
 # My Solutions for Quora Insincere Questions Classification
 
 This project, detecting toxic content to improve online conversations, is my kaggle competition. I got a bronze medal at top 6% from 4037 teams.
-
+Python Project.
 ### Quora Tech challenge —— Weeding out insincere questions
 
 An existential problem for any major website today is how to handle toxic and divisive content. Quora wants to tackle this problem to keep their platform a place where users can feel safe sharing their knowledge with the world.
